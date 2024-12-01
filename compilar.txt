@@ -1,0 +1,2 @@
+javac -cp .:postgresql.jar *.java -d classes
+java -cp .:postgresql.jar:classes App
