@@ -7,7 +7,7 @@ public class App extends JFrame {
     private DefaultTableModel modeloTabela;
 
     public App() {
-        setTitle("Gerenciamento de Carros - Bom Carro");
+        setTitle("Bom Carro");
         setSize(800, 500);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);

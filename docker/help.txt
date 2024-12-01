@@ -1,4 +1,4 @@
 para poder utilizar a imagem do docker precisa de 2 passos:
 
 1. Alterar o nome do arquivo dotenv para .env e substituir os colchetes pelos dados reais.
-2. Criar uma pasta com o nome db-data para servir como volume do docker e não perder os dados banco.
+2. Criar uma pasta com o nome 'db-data' para servir como volume do docker e não perder os dados banco.
